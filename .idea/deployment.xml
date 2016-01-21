@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" createEmptyFolders="true">
+    <serverData>
+      <paths name="Intranet webserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/feedback" local="$PROJECT_DIR$" web="/feedback" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
